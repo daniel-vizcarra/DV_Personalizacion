@@ -1,0 +1,1 @@
+C:\Users\Daniel\Desktop\Personalizacion Solucion\DV_MvcApp\DV_Frontend\DV_Frontend.csproj;x64
