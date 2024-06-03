@@ -6,11 +6,11 @@ using Microsoft.Maui.Controls;
 
 namespace DV_Frontend
 {
-    public partial class MainPage : ContentPage
+    public partial class MainPageDV : ContentPage
     {
         private readonly HttpClient _httpClient;
 
-        public MainPage(HttpClient httpClient)
+        public MainPageDV(HttpClient httpClient)
         {
             InitializeComponent();
             _httpClient = httpClient;

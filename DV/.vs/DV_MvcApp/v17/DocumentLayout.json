@@ -1,145 +1,153 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\dv_mvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\dv_mvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\dv_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\dv_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_frontend\\mainpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|solutionrelative:dv_frontend\\mainpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_frontend\\mainpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|solutionrelative:dv_frontend\\mainpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_frontend\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|solutionrelative:dv_frontend\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_frontend\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_frontend\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|solutionrelative:dv_frontend\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_frontend\\mainpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|solutionrelative:dv_frontend\\mainpagedv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_frontend\\mainpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|solutionrelative:dv_frontend\\mainpagedv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_frontend\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|solutionrelative:dv_frontend\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_frontend\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|solutionrelative:dv_frontend\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\dv_mvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\dv_mvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\dv_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\dv_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_frontend\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C0239B-4E42-4DE3-A2EF-C9F2B3F02350}|DV_Frontend\\DV_Frontend.csproj|solutionrelative:dv_frontend\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\models\\dv_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\models\\dv_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\models\\dv_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\dv_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\dv_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\dv_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\controllers\\dv_bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\controllers\\dv_bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\controllers\\dv_bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\controllers\\dv_authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\controllers\\dv_authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\controllers\\dv_authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\data\\dv_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\data\\dv_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\data\\dv_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_api\\models\\dv_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_api\\models\\dv_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95EF0237-3BC3-44EC-A33A-85D6A2FFD665}|DV_Api\\DV_Api.csproj|solutionrelative:dv_api\\models\\dv_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\models\\dv_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\models\\dv_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\models\\dv_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\data\\dv_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\data\\dv_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\data\\dv_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\controllers\\dv_bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\controllers\\dv_bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\controllers\\dv_bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\controllers\\dv_authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\controllers\\dv_authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\controllers\\dv_authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\models\\dv_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\models\\dv_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\models\\dv_author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\desktop\\personalizacion solucion\\dv_personalizacion\\dv_mvcapp\\migrations\\20240603033019_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|c:\\users\\daniel\\documents\\github\\personalizacion-mvc-api-maui-danielvizcarra\\dv\\dv_mvcapp\\migrations\\20240603033019_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87EB83CC-2383-4885-B61C-483BCDCBCD26}|DV_MvcApp\\DV_MvcApp.csproj|solutionrelative:dv_mvcapp\\migrations\\20240603033019_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -150,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -159,34 +167,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DV_MvcApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DV_MvcApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T04:16:07.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DV_Frontend.csproj.nuget.g.targets",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets",
-              "RelativeDocumentMoniker": "DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets",
-              "RelativeToolTip": "DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets",
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "DV_Frontend\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\AppShell.xaml.cs",
+              "RelativeToolTip": "DV_Frontend\\AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-06-03T04:53:50.666Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:25:04.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "DV_Frontend\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\MauiProgram.cs",
+              "RelativeToolTip": "DV_Frontend\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:24:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainPageDV.xaml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\MainPageDV.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\MainPageDV.xaml",
               "RelativeDocumentMoniker": "DV_Frontend\\MainPageDV.xaml",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\MainPageDV.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\MainPageDV.xaml",
               "RelativeToolTip": "DV_Frontend\\MainPageDV.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -195,23 +205,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\AppShell.xaml",
               "RelativeDocumentMoniker": "DV_Frontend\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\AppShell.xaml",
               "RelativeToolTip": "DV_Frontend\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-03T04:41:38.027Z"
+              "WhenOpened": "2024-06-03T04:41:38.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "DV_MvcApp\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "DV_MvcApp\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -219,11 +230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DV_MvcApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "DV_MvcApp\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -231,11 +242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "DV_MvcApp\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "DV_MvcApp\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -243,24 +254,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DV_Api.csproj",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\DV_Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\DV_Api.csproj",
               "RelativeDocumentMoniker": "DV_Api\\DV_Api.csproj",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\DV_Api.csproj",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\DV_Api.csproj",
               "RelativeToolTip": "DV_Api\\DV_Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-03T03:54:59.663Z",
+              "WhenOpened": "2024-06-03T03:54:59.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPageDV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\MainPageDV.xaml.cs",
+              "RelativeDocumentMoniker": "DV_Frontend\\MainPageDV.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\MainPageDV.xaml.cs",
+              "RelativeToolTip": "DV_Frontend\\MainPageDV.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:37:19.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 36,
+              "Title": "DV_Frontend.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets",
+              "RelativeToolTip": "DV_Frontend\\obj\\DV_Frontend.csproj.nuget.g.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-03T04:53:50.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DV_MvcApp.csproj",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\DV_MvcApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\DV_MvcApp.csproj",
               "RelativeDocumentMoniker": "DV_MvcApp\\DV_MvcApp.csproj",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\DV_MvcApp.csproj",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\DV_MvcApp.csproj",
               "RelativeToolTip": "DV_MvcApp\\DV_MvcApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -269,23 +304,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPageDV.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\MainPageDV.xaml.cs",
-              "RelativeDocumentMoniker": "DV_Frontend\\MainPageDV.xaml.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\MainPageDV.xaml.cs",
-              "RelativeToolTip": "DV_Frontend\\MainPageDV.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DV_MvcApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DV_MvcApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T04:37:19.991Z"
+              "WhenOpened": "2024-06-03T04:16:07.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\App.xaml.cs",
               "RelativeDocumentMoniker": "DV_Frontend\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Frontend\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\App.xaml.cs",
               "RelativeToolTip": "DV_Frontend\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,11 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "DV_MvcApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "DV_MvcApp\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -305,11 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "DV_MvcApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "DV_MvcApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -317,11 +352,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "DV_Author.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Models\\DV_Author.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Models\\DV_Author.cs",
               "RelativeDocumentMoniker": "DV_Api\\Models\\DV_Author.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Models\\DV_Author.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Models\\DV_Author.cs",
               "RelativeToolTip": "DV_Api\\Models\\DV_Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,11 +364,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Program.cs",
               "RelativeDocumentMoniker": "DV_Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Program.cs",
               "RelativeToolTip": "DV_Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -341,11 +376,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "DV_Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Properties\\launchSettings.json",
               "RelativeToolTip": "DV_Api\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -353,11 +388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "DV_Book.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Models\\DV_Book.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Models\\DV_Book.cs",
               "RelativeDocumentMoniker": "DV_Api\\Models\\DV_Book.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Models\\DV_Book.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Models\\DV_Book.cs",
               "RelativeToolTip": "DV_Api\\Models\\DV_Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,11 +400,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "DV_Api.http",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\DV_Api.http",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\DV_Api.http",
               "RelativeDocumentMoniker": "DV_Api\\DV_Api.http",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\DV_Api.http",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\DV_Api.http",
               "RelativeToolTip": "DV_Api\\DV_Api.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -377,11 +412,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "DV_Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\appsettings.Development.json",
               "RelativeToolTip": "DV_Api\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -389,11 +424,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "DV_Context.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Data\\DV_Context.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Data\\DV_Context.cs",
               "RelativeDocumentMoniker": "DV_Api\\Data\\DV_Context.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Data\\DV_Context.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Data\\DV_Context.cs",
               "RelativeToolTip": "DV_Api\\Data\\DV_Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -401,11 +436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "DV_MvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "DV_MvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -413,11 +448,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\appsettings.json",
               "RelativeDocumentMoniker": "DV_Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\appsettings.json",
               "RelativeToolTip": "DV_Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -425,11 +460,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "DV_MvcApp\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "DV_MvcApp\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -437,11 +472,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DV_MvcApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DV_MvcApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -449,11 +484,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DV_MvcApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "DV_MvcApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -461,11 +496,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "DV_AuthorController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Controllers\\DV_AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Controllers\\DV_AuthorController.cs",
               "RelativeDocumentMoniker": "DV_MvcApp\\Controllers\\DV_AuthorController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Controllers\\DV_AuthorController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Controllers\\DV_AuthorController.cs",
               "RelativeToolTip": "DV_MvcApp\\Controllers\\DV_AuthorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -473,11 +508,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\appsettings.json",
               "RelativeDocumentMoniker": "DV_MvcApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\appsettings.json",
               "RelativeToolTip": "DV_MvcApp\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -485,11 +520,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Program.cs",
               "RelativeDocumentMoniker": "DV_MvcApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Program.cs",
               "RelativeToolTip": "DV_MvcApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -497,11 +532,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "DV_BookController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Controllers\\DV_BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Controllers\\DV_BookController.cs",
               "RelativeDocumentMoniker": "DV_Api\\Controllers\\DV_BookController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Controllers\\DV_BookController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Controllers\\DV_BookController.cs",
               "RelativeToolTip": "DV_Api\\Controllers\\DV_BookController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -509,11 +544,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "DV_AuthorController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Controllers\\DV_AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Controllers\\DV_AuthorController.cs",
               "RelativeDocumentMoniker": "DV_Api\\Controllers\\DV_AuthorController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_Api\\Controllers\\DV_AuthorController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\Controllers\\DV_AuthorController.cs",
               "RelativeToolTip": "DV_Api\\Controllers\\DV_AuthorController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -521,11 +556,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "20240603033019_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Migrations\\20240603033019_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Migrations\\20240603033019_InitialCreate.cs",
               "RelativeDocumentMoniker": "DV_MvcApp\\Migrations\\20240603033019_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Migrations\\20240603033019_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Migrations\\20240603033019_InitialCreate.cs",
               "RelativeToolTip": "DV_MvcApp\\Migrations\\20240603033019_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -533,11 +568,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "DV_Book.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Models\\DV_Book.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Models\\DV_Book.cs",
               "RelativeDocumentMoniker": "DV_MvcApp\\Models\\DV_Book.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Models\\DV_Book.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Models\\DV_Book.cs",
               "RelativeToolTip": "DV_MvcApp\\Models\\DV_Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -545,11 +580,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "DV_BookController.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Controllers\\DV_BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Controllers\\DV_BookController.cs",
               "RelativeDocumentMoniker": "DV_MvcApp\\Controllers\\DV_BookController.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Controllers\\DV_BookController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Controllers\\DV_BookController.cs",
               "RelativeToolTip": "DV_MvcApp\\Controllers\\DV_BookController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -557,11 +592,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "DV_Context.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Data\\DV_Context.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Data\\DV_Context.cs",
               "RelativeDocumentMoniker": "DV_MvcApp\\Data\\DV_Context.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Data\\DV_Context.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Data\\DV_Context.cs",
               "RelativeToolTip": "DV_MvcApp\\Data\\DV_Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -569,11 +604,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "DV_Author.cs",
-              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Models\\DV_Author.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Models\\DV_Author.cs",
               "RelativeDocumentMoniker": "DV_MvcApp\\Models\\DV_Author.cs",
-              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_Personalizacion\\DV_MvcApp\\Models\\DV_Author.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\Models\\DV_Author.cs",
               "RelativeToolTip": "DV_MvcApp\\Models\\DV_Author.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

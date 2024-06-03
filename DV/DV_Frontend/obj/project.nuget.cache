@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XiLc2ZP4sWIUIABhwI7HX3ZJInpgAlM/lwPko9Od3lYawvgHvlO85ClovUY34zowXlE9TZBBV/ax826TLuKvng==",
+  "dgSpecHash": "u5HUctcHTvGWpCAAR7sypykLTJAgSqxVEZWgZ4+KTVrpcp8OPIsE9qlVq305aiIVaa1M4212Y88Irj5kSrRvaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_MvcApp\\DV_Frontend\\DV_Frontend.csproj",
+  "projectFilePath": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Frontend\\DV_Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

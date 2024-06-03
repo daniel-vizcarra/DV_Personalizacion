@@ -1,1 +1,1 @@
-C:\Users\Daniel\Desktop\Personalizacion Solucion\DV_MvcApp\DV_Frontend\DV_Frontend.csproj;x64
+C:\Users\Daniel\Documents\GitHub\Personalizacion-MVC-API-MAUI-DanielVizcarra\DV\DV_Frontend\DV_Frontend.csproj;x64

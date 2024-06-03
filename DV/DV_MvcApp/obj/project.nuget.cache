@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LcSwmeo0U/DcMBGM2xBb9B9x9WrEhQfTVmPD2z7GvteDsNoSDgOSknKbH0C7Hf+JSJjGnnAPFq+cKuq7r2m/3g==",
+  "dgSpecHash": "6jo+HAq2C2T+0TIijwhMSy0ALvFnmo4865zozDkwQ8p48lLb2kaSfOYgsSXPMby8w5HZ5WYW5rUgRE7xIH8cyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_MvcApp\\DV_MvcApp\\DV_MvcApp.csproj",
+  "projectFilePath": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_MvcApp\\DV_MvcApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

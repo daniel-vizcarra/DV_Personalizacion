@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_MvcApp\\DV_Api\\DV_Api.csproj": {}
+    "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\DV_Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_MvcApp\\DV_Api\\DV_Api.csproj": {
+    "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\DV_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_MvcApp\\DV_Api\\DV_Api.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\DV_Api.csproj",
         "projectName": "DV_Api",
-        "projectPath": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_MvcApp\\DV_Api\\DV_Api.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\DV_Api.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\Desktop\\Personalizacion Solucion\\DV_MvcApp\\DV_Api\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Personalizacion-MVC-API-MAUI-DanielVizcarra\\DV\\DV_Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
